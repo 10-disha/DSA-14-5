@@ -17,3 +17,5 @@ int main(void)
     cout << gcd(a, b);
     return 0;
 }
+
+//time complexity big O log(min(a,b))
