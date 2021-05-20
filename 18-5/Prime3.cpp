@@ -24,7 +24,7 @@ bool isPrime(int n)
 
 int main(void)
 {
-    int number = 3;
+    int number = 13;
     cout << isPrime(number);
     return 0;
 }
