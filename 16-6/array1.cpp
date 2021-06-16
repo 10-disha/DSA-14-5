@@ -1,3 +1,6 @@
+//searching in the array
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
