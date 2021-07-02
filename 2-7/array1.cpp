@@ -20,7 +20,7 @@ int insertelement(int arr[],int n,int element,int position,int capacity){
 
 int main()
 {
-     int arr[5]={2,3,4}, capacity=5,n=3;
+     int arr[]={2,3,4}, capacity=4,n=3;
      cout<<"before insertion:"<<endl;
 
      for(int i=0; i<n; i++)
