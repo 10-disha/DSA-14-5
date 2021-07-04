@@ -6,7 +6,7 @@
 using namespace std;
 
 int pushZerosToEnd(int arr[],int n){
-   int temp;
+   int temp[n];
     for(int i=0;i<n;i++){
         if(arr[i]==0){
             for(int j=i+1;j<n;j++){
