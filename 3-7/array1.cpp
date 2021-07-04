@@ -6,9 +6,9 @@ using namespace std;
 
  int remDups(int arr[], int n)
 {
-	int temp[n];
+	// int temp[n];
 
-	temp[0] = arr[0];
+	int temp[0] = arr[0];
 
 	int res = 1;
 
